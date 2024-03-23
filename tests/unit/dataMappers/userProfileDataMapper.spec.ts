@@ -1,5 +1,5 @@
-import TestKit from '@diia-inhouse/test'
-import { UserTokenData } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { UserTokenData } from '@kant2002-diia-inhouse/types'
 
 import UserProfileDataMapper from '@dataMappers/userProfileDataMapper'
 

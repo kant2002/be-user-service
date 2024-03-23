@@ -1,4 +1,4 @@
-import { ListItemMlc, UserTokenData } from '@diia-inhouse/types'
+import { ListItemMlc, UserTokenData } from '@kant2002-diia-inhouse/types'
 
 import { ActRecordsData, DocumentItem } from '@src/generated'
 

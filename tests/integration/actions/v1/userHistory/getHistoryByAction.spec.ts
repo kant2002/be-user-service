@@ -1,7 +1,7 @@
 import { FilterQuery, UpdateQuery } from 'mongoose'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { UserSession } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { UserSession } from '@kant2002-diia-inhouse/types'
 
 import GetHistoryByActionAction from '@actions/v1/userHistory/getHistoryByAction'
 

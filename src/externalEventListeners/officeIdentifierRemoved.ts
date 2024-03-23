@@ -1,7 +1,7 @@
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { EventBusListener, ExternalEvent } from '@diia-inhouse/diia-queue'
-import { DocumentType, ProfileFeature } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { EventBusListener, ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { DocumentType, ProfileFeature } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import DocumentsService from '@services/documents'
 import UserProfileService from '@services/userProfile'

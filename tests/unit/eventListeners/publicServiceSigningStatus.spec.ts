@@ -4,9 +4,9 @@ const uuidV4Stub = jest.fn()
 
 jest.mock('uuid', () => ({ v4: uuidV4Stub }))
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { PlatformType } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import PublicServiceSigningStatusEventListener from '@src/eventListeners/publicServiceSigningStatus'
 

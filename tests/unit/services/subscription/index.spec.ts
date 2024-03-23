@@ -39,11 +39,11 @@ import { randomUUID } from 'crypto'
 
 import { UpdateWriteOpResult } from 'mongoose'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { BadRequestError, ModelNotFoundError, NotFoundError } from '@diia-inhouse/errors'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocumentType } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { BadRequestError, ModelNotFoundError, NotFoundError } from '@kant2002-diia-inhouse/errors'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 import SubscriptionService from '@src/services/subscription'
 

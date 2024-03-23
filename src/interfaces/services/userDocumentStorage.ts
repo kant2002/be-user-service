@@ -1,4 +1,4 @@
-import { DocumentType } from '@diia-inhouse/types'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 export type EncryptedDataByDocumentType = {
     [key in DocumentType]?: string[]

@@ -1,9 +1,9 @@
 import moment from 'moment'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { EventBusListener, InternalEvent } from '@diia-inhouse/diia-queue'
-import { Gender, PlatformType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { EventBusListener, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { Gender, PlatformType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import SubscriptionService from '@services/subscription'
 import UserProfileService from '@services/userProfile'

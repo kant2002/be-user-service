@@ -2,9 +2,9 @@ import { randomUUID } from 'crypto'
 
 import { DateTime } from 'luxon'
 
-import { DiiaIdServiceCode, RatingCategory } from '@diia-inhouse/analytics'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { MessageActionSubtype, MessageActionType, PlatformType, TemplateStub } from '@diia-inhouse/types'
+import { DiiaIdServiceCode, RatingCategory } from '@kant2002-diia-inhouse/analytics'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { MessageActionSubtype, MessageActionType, PlatformType, TemplateStub } from '@kant2002-diia-inhouse/types'
 
 import AnalyticsService from '@services/analytics'
 import RatingSigningHistoryService from '@services/rating/signingHistory'

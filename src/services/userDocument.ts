@@ -3,8 +3,8 @@ import moment from 'moment'
 import { AnyBulkWriteOperation, MatchKeysAndValues, UpdateManyModel, WithId } from 'mongodb'
 import { FilterQuery, PipelineStage, UpdateQuery } from 'mongoose'
 
-import { InternalServerError } from '@diia-inhouse/errors'
-import { DocStatus, DocumentType, Logger, OwnerType, UserDocumentSubtype } from '@diia-inhouse/types'
+import { InternalServerError } from '@kant2002-diia-inhouse/errors'
+import { DocStatus, DocumentType, Logger, OwnerType, UserDocumentSubtype } from '@kant2002-diia-inhouse/types'
 
 import AnalyticsService from '@services/analytics'
 import DiiaIdService from '@services/diiaId'

@@ -1,6 +1,6 @@
-import { EventBus, EventBusListener, InternalEvent, MessagePayload } from '@diia-inhouse/diia-queue'
-import { Logger } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBus, EventBusListener, InternalEvent, MessagePayload } from '@kant2002-diia-inhouse/diia-queue'
+import { Logger } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import AnalyticsService from '@services/analytics'
 import UserDocumentService from '@services/userDocument'

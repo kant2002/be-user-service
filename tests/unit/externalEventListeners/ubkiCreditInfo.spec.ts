@@ -12,10 +12,10 @@ class CreditHistoryStrategyServiceMock {
 
 jest.mock('@services/subscription/strategies/creditHistory', () => CreditHistoryStrategyServiceMock)
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { HttpStatusCode } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { HttpStatusCode } from '@kant2002-diia-inhouse/types'
 
 import UbkiCreditInfoEventListener from '@src/externalEventListeners/ubkiCreditInfo'
 

@@ -1,7 +1,7 @@
-import { GrpcAppAction } from '@diia-inhouse/diia-app'
+import { GrpcAppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { ActionVersion, DocumentType, OwnerType, SessionType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { ActionVersion, DocumentType, OwnerType, SessionType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import UserDocumentService from '@services/userDocument'
 

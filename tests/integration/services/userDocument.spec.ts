@@ -1,8 +1,8 @@
 import { randomUUID } from 'crypto'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import TestKit from '@diia-inhouse/test'
-import { DocStatus, DocumentType, DurationMs, OwnerType, UserDocumentSubtype } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { DocStatus, DocumentType, DurationMs, OwnerType, UserDocumentSubtype } from '@kant2002-diia-inhouse/types'
 
 import UserDocumentService from '@services/userDocument'
 

@@ -1,4 +1,4 @@
-import { ActHeaders, Gender } from '@diia-inhouse/types'
+import { ActHeaders, Gender } from '@kant2002-diia-inhouse/types'
 
 export interface EventPayload {
     userIdentifier: string

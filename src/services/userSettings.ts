@@ -1,4 +1,4 @@
-import DiiaLogger from '@diia-inhouse/diia-logger'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
 
 import { UpdateUserSettingsReq } from '@src/generated'
 

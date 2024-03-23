@@ -1,8 +1,8 @@
 import moment from 'moment'
 
-import { EventBusListener, InternalEvent } from '@diia-inhouse/diia-queue'
-import { Gender, PlatformType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBusListener, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { Gender, PlatformType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import EResidentProfileService from '@services/eResidentProfile'
 

@@ -1,6 +1,6 @@
 import { randomUUID } from 'crypto'
 
-import TestKit from '@diia-inhouse/test'
+import TestKit from '@kant2002-diia-inhouse/test'
 
 import GetHistoryItemByIdAction from '@src/actions/v2/userHistory/getHistoryItemById'
 

@@ -2,8 +2,8 @@ import { randomUUID } from 'crypto'
 
 import { asClass } from 'awilix'
 
-import TestKit from '@diia-inhouse/test'
-import { DocStatus, DocumentType, OwnerType } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { DocStatus, DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
 
 import ProcessUserDocumentsAction from '@src/actions/v1/userDocument/processUserDocuments'
 

@@ -1,5 +1,5 @@
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { AppUserActionHeaders, DocStatus, DocumentType, OwnerType } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { AppUserActionHeaders, DocStatus, DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
 
 import GetUserDocumentsAction from '@actions/v2/userDocument/getUserDocuments'
 

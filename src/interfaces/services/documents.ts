@@ -1,4 +1,4 @@
-import { DocStatus, DocumentType, DocumentTypeCamelCase, OwnerType, UserDocumentSubtype } from '@diia-inhouse/types'
+import { DocStatus, DocumentType, DocumentTypeCamelCase, OwnerType, UserDocumentSubtype } from '@kant2002-diia-inhouse/types'
 
 import { DocumentItem } from '@src/generated'
 

@@ -2,9 +2,9 @@ import { randomUUID } from 'crypto'
 
 import { ObjectId } from 'bson'
 
-import TestKit from '@diia-inhouse/test/*'
-import { ButtonState } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import TestKit from '@kant2002-diia-inhouse/test/*'
+import { ButtonState } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import GetHistoryByActionAction from '@src/actions/v3/userHistory/getHistoryByAction'
 

@@ -4,8 +4,8 @@ jest.mock('moment', () => (): unknown => ({ format: momentFormatStub }))
 
 import { randomUUID } from 'crypto'
 
-import { mockInstance } from '@diia-inhouse/test'
-import { DocumentType } from '@diia-inhouse/types'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 import UserHistoryDataMapper from '@dataMappers/userHistoryDataMapper'
 import UserSharingHistoryDataMapper from '@dataMappers/userSharingHistoryDataMapper'

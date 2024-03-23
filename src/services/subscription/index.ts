@@ -1,8 +1,8 @@
 import { FilterQuery, UpdateQuery } from 'mongoose'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { BadRequestError, ModelNotFoundError, NotFoundError } from '@diia-inhouse/errors'
-import { DocumentType, Logger, UserActionHeaders } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { BadRequestError, ModelNotFoundError, NotFoundError } from '@kant2002-diia-inhouse/errors'
+import { DocumentType, Logger, UserActionHeaders } from '@kant2002-diia-inhouse/types'
 
 import AnalyticsService from '@services/analytics'
 import CreditHistoryStrategyService from '@services/subscription/strategies/creditHistory'

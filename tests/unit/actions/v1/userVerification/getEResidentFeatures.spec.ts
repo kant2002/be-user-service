@@ -1,5 +1,5 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { SessionType } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { SessionType } from '@kant2002-diia-inhouse/types'
 
 import GetEResidentFeaturesAction from '@actions/v1/userVerification/getEResidentFeatures'
 

@@ -1,7 +1,7 @@
-import { AnalyticsActionResult } from '@diia-inhouse/analytics'
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { Gender } from '@diia-inhouse/types'
+import { AnalyticsActionResult } from '@kant2002-diia-inhouse/analytics'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { Gender } from '@kant2002-diia-inhouse/types'
 
 const eresidentProfileModel = {
     findOne: jest.fn(),

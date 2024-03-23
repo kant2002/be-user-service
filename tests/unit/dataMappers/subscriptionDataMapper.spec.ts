@@ -1,7 +1,7 @@
 import { randomUUID } from 'crypto'
 
-import TestKit from '@diia-inhouse/test'
-import { PlatformType } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import subscriptionModel from '@models/subscription'
 

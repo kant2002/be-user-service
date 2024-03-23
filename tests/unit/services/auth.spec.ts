@@ -1,10 +1,10 @@
 import { randomUUID } from 'crypto'
 
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { ActionVersion, AppUser, PlatformType, SessionType } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { ActionVersion, AppUser, PlatformType, SessionType } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import AuthService from '@services/auth'
 

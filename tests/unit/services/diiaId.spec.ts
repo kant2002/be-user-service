@@ -6,14 +6,14 @@ import { randomUUID } from 'crypto'
 
 import moment from 'moment'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { ExternalCommunicator, ExternalEventBus } from '@diia-inhouse/diia-queue'
-import { EnvService } from '@diia-inhouse/env'
-import { AccessDeniedError, ApiError, InternalServerError, ModelNotFoundError, NotFoundError } from '@diia-inhouse/errors'
-import { I18nService } from '@diia-inhouse/i18n'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { AppUser, DocumentType, HttpStatusCode, PassportType, SessionType } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { ExternalCommunicator, ExternalEventBus } from '@kant2002-diia-inhouse/diia-queue'
+import { EnvService } from '@kant2002-diia-inhouse/env'
+import { AccessDeniedError, ApiError, InternalServerError, ModelNotFoundError, NotFoundError } from '@kant2002-diia-inhouse/errors'
+import { I18nService } from '@kant2002-diia-inhouse/i18n'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { AppUser, DocumentType, HttpStatusCode, PassportType, SessionType } from '@kant2002-diia-inhouse/types'
 
 const diiaIdModel = {
     create: jest.fn(),

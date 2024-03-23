@@ -1,7 +1,7 @@
 import { randomUUID as uuid } from 'crypto'
 
-import TestKit from '@diia-inhouse/test'
-import { DocStatus, DocumentTypeCamelCase, Icon, RelationshipActRecordSubtype } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { DocStatus, DocumentTypeCamelCase, Icon, RelationshipActRecordSubtype } from '@kant2002-diia-inhouse/types'
 
 import GetActRecordsAction from '@src/actions/v1/myInfo/getActRecords'
 import { ActRecordRequestType, DocumentItem } from '@src/generated'

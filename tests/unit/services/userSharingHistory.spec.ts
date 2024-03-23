@@ -16,8 +16,8 @@ const userSharingHistoryItemModel = {
 
 jest.mock('@models/userSharingHistoryItem', () => userSharingHistoryItemModel)
 
-import TestKit from '@diia-inhouse/test'
-import { DocumentType } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 import UserSharingHistoryService from '@services/userSharingHistory'
 

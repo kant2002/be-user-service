@@ -1,10 +1,10 @@
 import { ObjectId } from 'bson'
 
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { ActionVersion, SessionType } from '@diia-inhouse/types'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { ActionVersion, SessionType } from '@kant2002-diia-inhouse/types'
 
 import NotificationService from '@services/notification'
 

@@ -1,5 +1,5 @@
-import { AnalyticsActionResult } from '@diia-inhouse/analytics'
-import { ActHeaders, Logger } from '@diia-inhouse/types'
+import { AnalyticsActionResult } from '@kant2002-diia-inhouse/analytics'
+import { ActHeaders, Logger } from '@kant2002-diia-inhouse/types'
 
 import EResidentDeviceService from '@services/eResidentDevice'
 

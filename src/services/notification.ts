@@ -1,9 +1,9 @@
 import { ObjectId } from 'bson'
 
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { NotificationServiceClient } from '@diia-inhouse/notification-service-client'
-import { ActHeaders, ActionVersion, Logger, SessionType, UserTokenData } from '@diia-inhouse/types'
+import { NotificationServiceClient } from '@kant2002-diia-inhouse/notification-service-client'
+import { ActHeaders, ActionVersion, Logger, SessionType, UserTokenData } from '@kant2002-diia-inhouse/types'
 
 import {
     CreateNotificationWithPushesByMobileUidParams,

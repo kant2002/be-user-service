@@ -1,7 +1,7 @@
 import { randomUUID } from 'crypto'
 
-import { mockInstance } from '@diia-inhouse/test'
-import { Gender } from '@diia-inhouse/types'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
+import { Gender } from '@kant2002-diia-inhouse/types'
 
 import GetUserInfoForFiltersListener from '@src/externalEventListeners/getUserInfoForFilters'
 

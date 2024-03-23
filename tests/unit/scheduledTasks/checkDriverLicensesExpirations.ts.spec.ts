@@ -1,6 +1,6 @@
-import Logger from '@diia-inhouse/diia-logger'
-import { ScheduledTaskEvent } from '@diia-inhouse/diia-queue'
-import { mockInstance } from '@diia-inhouse/test'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { ScheduledTaskEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import CheckDriverLicensesExpirationsTask from '@src/scheduledTasks/checkDriverLicensesExpirations'
 

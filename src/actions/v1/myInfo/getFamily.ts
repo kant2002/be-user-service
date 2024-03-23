@@ -1,6 +1,6 @@
-import { GrpcAppAction } from '@diia-inhouse/diia-app'
+import { GrpcAppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { ActionVersion, SessionType } from '@diia-inhouse/types'
+import { ActionVersion, SessionType } from '@kant2002-diia-inhouse/types'
 
 import MyInfoService from '@services/myInfo'
 

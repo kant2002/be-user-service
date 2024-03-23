@@ -1,4 +1,4 @@
-import { ServiceActionArguments } from '@diia-inhouse/types'
+import { ServiceActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { GetPointsResult } from '@interfaces/services/documentFeaturePoints'
 

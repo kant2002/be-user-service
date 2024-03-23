@@ -2,8 +2,8 @@ import { randomUUID } from 'crypto'
 
 import moment from 'moment'
 
-import { I18nService } from '@diia-inhouse/i18n'
-import TestKit from '@diia-inhouse/test'
+import { I18nService } from '@kant2002-diia-inhouse/i18n'
+import TestKit from '@kant2002-diia-inhouse/test'
 
 import GetDiiaIdIdentifiersAction from '@actions/v1/diiaId/getIdentifiers'
 

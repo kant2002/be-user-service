@@ -1,4 +1,4 @@
-import { DocumentType, ServiceActionArguments } from '@diia-inhouse/types'
+import { DocumentType, ServiceActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { SubscriptionType } from '@interfaces/models/subscription'
 import { UserDocument } from '@interfaces/models/userDocument'

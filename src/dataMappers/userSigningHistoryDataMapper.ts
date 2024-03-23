@@ -1,8 +1,8 @@
 import moment from 'moment'
 
-import { UnprocessableEntityError } from '@diia-inhouse/errors'
-import { ButtonState, CardMlc, TextLabelMlc } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { UnprocessableEntityError } from '@kant2002-diia-inhouse/errors'
+import { ButtonState, CardMlc, TextLabelMlc } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import UserHistoryDataMapper from '@dataMappers/userHistoryDataMapper'
 

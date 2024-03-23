@@ -1,8 +1,8 @@
 import { FilterQuery, ObjectId } from 'mongoose'
 
-import { CryptoService } from '@diia-inhouse/crypto'
-import { BadRequestError } from '@diia-inhouse/errors'
-import { DocumentType, Logger } from '@diia-inhouse/types'
+import { CryptoService } from '@kant2002-diia-inhouse/crypto'
+import { BadRequestError } from '@kant2002-diia-inhouse/errors'
+import { DocumentType, Logger } from '@kant2002-diia-inhouse/types'
 
 import userDocumentStorageModel from '@models/userDocumentStorage'
 

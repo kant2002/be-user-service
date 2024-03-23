@@ -1,6 +1,6 @@
 import { Model, Schema, model, models } from 'mongoose'
 
-import { DocumentType } from '@diia-inhouse/types'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 import { DocumentFeaturePoints } from '@interfaces/models/documentFeaturePoints'
 

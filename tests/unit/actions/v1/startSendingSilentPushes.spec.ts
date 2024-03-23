@@ -1,6 +1,6 @@
-import { EventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import { BadRequestError, InternalServerError } from '@diia-inhouse/errors'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import { EventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { BadRequestError, InternalServerError } from '@kant2002-diia-inhouse/errors'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import StartSendingSilentPushesAction from '@actions/v1/startSendingSilentPushes'
 

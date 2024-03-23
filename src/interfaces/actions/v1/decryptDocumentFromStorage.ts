@@ -1,4 +1,4 @@
-import { DocumentType, UserActionArguments } from '@diia-inhouse/types'
+import { DocumentType, UserActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { DecryptedDocument } from '@interfaces/services/userDocumentStorage'
 

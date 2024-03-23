@@ -1,4 +1,4 @@
-import { DocumentType, PlatformType } from '@diia-inhouse/types'
+import { DocumentType, PlatformType } from '@kant2002-diia-inhouse/types'
 
 import { UserProfileDocument } from '@interfaces/services/documents'
 

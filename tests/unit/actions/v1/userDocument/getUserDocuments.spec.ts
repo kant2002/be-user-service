@@ -1,5 +1,5 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocumentType, OwnerType } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
 
 import GetUserDocumentsAction from '@actions/v1/userDocument/getUserDocuments'
 

@@ -1,6 +1,6 @@
 import { ObjectId } from 'bson'
 
-import { PlatformType, ServiceActionArguments } from '@diia-inhouse/types'
+import { PlatformType, ServiceActionArguments } from '@kant2002-diia-inhouse/types'
 
 export interface CustomActionArguments extends ServiceActionArguments {
     params: {

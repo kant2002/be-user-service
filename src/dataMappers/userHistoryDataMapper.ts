@@ -7,8 +7,8 @@ import {
     NavigationPanelMlc,
     PublicServiceContextMenuType,
     StubMessageMlc,
-} from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+} from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import { StatusHistoryItem, UserSharingHistoryItemModel } from '@interfaces/models/userSharingHistoryItem'
 import { UserSigningHistoryItemModel } from '@interfaces/models/userSigningHistoryItem'

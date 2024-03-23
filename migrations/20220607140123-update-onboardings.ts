@@ -1,6 +1,6 @@
 import { Db } from 'mongodb'
 
-import { SessionType } from '@diia-inhouse/types'
+import { SessionType } from '@kant2002-diia-inhouse/types'
 
 const onboardingCollectionName = 'onboardings'
 const newFeaturesCollectionName = 'newfeatures'

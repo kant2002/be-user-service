@@ -1,9 +1,9 @@
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { mockInstance } from '@diia-inhouse/test'
-import { ActionVersion, DocumentType, PassportType, SessionType } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
+import { ActionVersion, DocumentType, PassportType, SessionType } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import DocumentsService from '@services/documents'
 

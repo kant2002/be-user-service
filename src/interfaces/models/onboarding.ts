@@ -1,6 +1,6 @@
 import { Document } from 'mongoose'
 
-import { PlatformType, SessionType } from '@diia-inhouse/types'
+import { PlatformType, SessionType } from '@kant2002-diia-inhouse/types'
 
 export enum OnboardingButtonAction {
     Skip = 'skip',

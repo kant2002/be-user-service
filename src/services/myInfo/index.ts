@@ -1,6 +1,6 @@
-import { StoreService } from '@diia-inhouse/redis'
-import { DocumentType, DurationMs, UserTokenData } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { StoreService } from '@kant2002-diia-inhouse/redis'
+import { DocumentType, DurationMs, UserTokenData } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import {
     ActRecordRequestType,

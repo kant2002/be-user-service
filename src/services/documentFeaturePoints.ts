@@ -1,9 +1,9 @@
 import { FilterQuery, UpdateQuery } from 'mongoose'
 import { v4 as uuid } from 'uuid'
 
-import { ExternalCommunicator, ExternalEvent } from '@diia-inhouse/diia-queue'
-import { ModelNotFoundError, ServiceUnavailableError } from '@diia-inhouse/errors'
-import { DocumentType, Logger } from '@diia-inhouse/types'
+import { ExternalCommunicator, ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { ModelNotFoundError, ServiceUnavailableError } from '@kant2002-diia-inhouse/errors'
+import { DocumentType, Logger } from '@kant2002-diia-inhouse/types'
 
 import documentFeaturePointsModel from '@models/documentFeaturePoints'
 

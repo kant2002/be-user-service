@@ -1,5 +1,5 @@
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { GenericObject, UserSession } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { GenericObject, UserSession } from '@kant2002-diia-inhouse/types'
 
 import GetSubscribedUserIdentifierAction from '@actions/v1/subscription/getSubscribedUserIdentifier'
 import GetSubscriptionsAction from '@actions/v1/subscription/getSubscriptions'

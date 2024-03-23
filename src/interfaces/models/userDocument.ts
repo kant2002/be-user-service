@@ -1,6 +1,6 @@
 import { Document } from 'mongoose'
 
-import { DocStatus, DocumentType, OwnerType, UserDocumentSubtype } from '@diia-inhouse/types'
+import { DocStatus, DocumentType, OwnerType, UserDocumentSubtype } from '@kant2002-diia-inhouse/types'
 
 import { ComparedTo, UserCompoundDocument, UserDocumentData } from '@interfaces/services/documents'
 import { MessageTemplateCode } from '@interfaces/services/notification'

@@ -1,9 +1,9 @@
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { EventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import { BadRequestError, InternalServerError } from '@diia-inhouse/errors'
-import { ActionVersion, SessionType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { BadRequestError, InternalServerError } from '@kant2002-diia-inhouse/errors'
+import { ActionVersion, SessionType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import NotificationService from '@services/notification'
 

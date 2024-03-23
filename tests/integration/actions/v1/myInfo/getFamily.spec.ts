@@ -1,4 +1,4 @@
-import { Icon } from '@diia-inhouse/types'
+import { Icon } from '@kant2002-diia-inhouse/types'
 
 import GetFamilyAction from '@src/actions/v1/myInfo/getFamily'
 

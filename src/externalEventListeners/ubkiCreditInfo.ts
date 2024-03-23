@@ -1,9 +1,9 @@
 import { UpdateQuery } from 'mongoose'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { EventBusListener, ExternalEvent } from '@diia-inhouse/diia-queue'
-import { HttpStatusCode, Logger } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { EventBusListener, ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { HttpStatusCode, Logger } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import SubscriptionService from '@services/subscription'
 import CreditHistoryStrategyService from '@services/subscription/strategies/creditHistory'

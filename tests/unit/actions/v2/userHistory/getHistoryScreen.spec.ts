@@ -1,4 +1,4 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import GetHistoryScreenAction from '@actions/v2/userHistory/getHistoryScreen'
 

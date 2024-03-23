@@ -28,10 +28,10 @@ jest.mock('moment', () => momentStubs.moment)
 
 import { BulkWriteResult } from 'mongodb'
 
-import { AnalyticsCategory } from '@diia-inhouse/analytics'
-import Logger from '@diia-inhouse/diia-logger'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocStatus, DocumentType, DurationMs, OwnerType, UserDocumentSubtype } from '@diia-inhouse/types'
+import { AnalyticsCategory } from '@kant2002-diia-inhouse/analytics'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocStatus, DocumentType, DurationMs, OwnerType, UserDocumentSubtype } from '@kant2002-diia-inhouse/types'
 
 import AnalyticsService from '@services/analytics'
 import DiiaIdService from '@services/diiaId'

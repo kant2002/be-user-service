@@ -6,14 +6,14 @@ const utilsMock = {
 
 jest.mock('moment', () => (): unknown => ({ format: momentFormatStub }))
 
-jest.mock('@diia-inhouse/utils', () => ({
+jest.mock('@kant2002-diia-inhouse/utils', () => ({
     utils: utilsMock,
 }))
 
 import { randomUUID } from 'crypto'
 
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { ButtonState, ChipStatusAtmType, DocumentType } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { ButtonState, ChipStatusAtmType, DocumentType } from '@kant2002-diia-inhouse/types'
 
 import UserHistoryDataMapper from '@dataMappers/userHistoryDataMapper'
 import UserSigningHistoryDataMapper from '@dataMappers/userSigningHistoryDataMapper'

@@ -1,6 +1,6 @@
 import { UpdateResult } from 'mongodb'
 
-import { ActHeaders, Logger } from '@diia-inhouse/types'
+import { ActHeaders, Logger } from '@kant2002-diia-inhouse/types'
 
 import eResidentDeviceModel from '@models/eResidentDevice'
 

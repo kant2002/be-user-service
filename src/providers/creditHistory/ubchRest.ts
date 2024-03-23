@@ -1,7 +1,7 @@
-import { InternalServerError, ServiceUnavailableError } from '@diia-inhouse/errors'
-import { HttpService, HttpServiceResponse, HttpServiceResponseResult } from '@diia-inhouse/http'
-import { CacheService, RedlockService } from '@diia-inhouse/redis'
-import { HttpStatusCode, Logger } from '@diia-inhouse/types'
+import { InternalServerError, ServiceUnavailableError } from '@kant2002-diia-inhouse/errors'
+import { HttpService, HttpServiceResponse, HttpServiceResponseResult } from '@kant2002-diia-inhouse/http'
+import { CacheService, RedlockService } from '@kant2002-diia-inhouse/redis'
+import { HttpStatusCode, Logger } from '@kant2002-diia-inhouse/types'
 
 import { AppConfig } from '@interfaces/config'
 import { CreditHistoryProvider } from '@interfaces/providers/creditHistory'

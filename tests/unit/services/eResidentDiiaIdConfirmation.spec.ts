@@ -1,6 +1,6 @@
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { ExternalCommunicator, ExternalEvent, ExternalEventBus } from '@diia-inhouse/diia-queue'
-import { mockInstance } from '@diia-inhouse/test'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { ExternalCommunicator, ExternalEvent, ExternalEventBus } from '@kant2002-diia-inhouse/diia-queue'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import EResidentDiiaIdConfirmationService from '@services/eResidentDiiaIdConfirmation'
 

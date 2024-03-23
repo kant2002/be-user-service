@@ -1,5 +1,5 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocumentTypeCamelCase } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentTypeCamelCase } from '@kant2002-diia-inhouse/types'
 
 import GetDocumentsTypeOrderAction from '@actions/v2/userDocument/getDocumentsTypeOrder'
 

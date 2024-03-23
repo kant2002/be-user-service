@@ -1,9 +1,9 @@
 import { v4 as uuid } from 'uuid'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { ApiError } from '@diia-inhouse/errors'
-import { UserSession } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { ApiError } from '@kant2002-diia-inhouse/errors'
+import { UserSession } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import AddSubscriptionAction from '@actions/v1/subscription/addSubscription'
 import GetSubscriptionsAction from '@actions/v1/subscription/getSubscriptions'

@@ -1,4 +1,4 @@
-import { AppUserActionArguments } from '@diia-inhouse/types'
+import { AppUserActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { HistoryAction, HistoryResponse } from '@interfaces/services/userHistory'
 

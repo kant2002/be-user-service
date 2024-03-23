@@ -1,8 +1,8 @@
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { AuthServiceClient, SessionByIdResponse } from '@diia-inhouse/auth-service-client'
-import { ActionVersion, AppUser } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { AuthServiceClient, SessionByIdResponse } from '@kant2002-diia-inhouse/auth-service-client'
+import { ActionVersion, AppUser } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import { AuthSchemaCode, RevokeSubmitAfterUserAuthStepsResult } from '@interfaces/services/auth'
 

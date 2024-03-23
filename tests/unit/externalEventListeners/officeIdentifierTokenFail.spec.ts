@@ -1,6 +1,6 @@
 import { randomUUID } from 'crypto'
 
-import { mockInstance } from '@diia-inhouse/test'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import OfficeIdentifierTokenFailEventListener from '@src/externalEventListeners/officeIdentifierTokenFail'
 

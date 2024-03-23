@@ -1,6 +1,6 @@
 import { Model, Schema, model, models } from 'mongoose'
 
-import { Gender } from '@diia-inhouse/types'
+import { Gender } from '@kant2002-diia-inhouse/types'
 
 import { CitizenshipSource, EResidentProfile, EResidentProfileCitizenship } from '@interfaces/models/eResidentProfile'
 

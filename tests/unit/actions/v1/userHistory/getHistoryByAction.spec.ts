@@ -1,5 +1,5 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { PlatformType } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import GetHistoryByActionAction from '@actions/v1/userHistory/getHistoryByAction'
 

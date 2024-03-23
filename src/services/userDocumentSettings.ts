@@ -1,8 +1,8 @@
 import { UpdateQuery } from 'mongoose'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { BadRequestError } from '@diia-inhouse/errors'
-import { DocumentType, DocumentTypeCamelCase, ProfileFeature, SessionType } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { BadRequestError } from '@kant2002-diia-inhouse/errors'
+import { DocumentType, DocumentTypeCamelCase, ProfileFeature, SessionType } from '@kant2002-diia-inhouse/types'
 
 import userDocumentSettingsModel from '@models/userDocumentSettings'
 

@@ -1,6 +1,6 @@
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { ActionVersion, SessionType, UserActionArguments } from '@diia-inhouse/types'
+import { ActionVersion, SessionType, UserActionArguments } from '@kant2002-diia-inhouse/types'
 
 import DiiaIdService from '@services/diiaId'
 

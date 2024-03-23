@@ -1,4 +1,4 @@
-import { ServiceActionArguments } from '@diia-inhouse/types'
+import { ServiceActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { UserDocument } from '@interfaces/models/userDocument'
 import { DocumentFilter } from '@interfaces/services/userDocument'

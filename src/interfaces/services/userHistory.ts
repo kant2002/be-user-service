@@ -1,4 +1,4 @@
-import { RatingForm } from '@diia-inhouse/analytics'
+import { RatingForm } from '@kant2002-diia-inhouse/analytics'
 import {
     AttentionMessage,
     CardMlc,
@@ -10,7 +10,7 @@ import {
     TextLabelMlc,
     TitleLabelMlc,
     TopGroupOrg,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 export enum HistoryAction {
     Sharing = 'sharing',

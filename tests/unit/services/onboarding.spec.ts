@@ -2,8 +2,8 @@ const compareSemverStub = jest.fn()
 
 jest.mock('compare-versions', () => ({ compare: compareSemverStub }))
 
-import TestKit from '@diia-inhouse/test'
-import { PlatformType, SessionType } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { PlatformType, SessionType } from '@kant2002-diia-inhouse/types'
 
 import OnboardingService from '@services/onboarding'
 

@@ -1,7 +1,7 @@
 import { v4 as uuid } from 'uuid'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { ActionVersion, AppUserActionHeaders, AuthDocumentType, Gender, PlatformType, SessionType, UserSession } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { ActionVersion, AppUserActionHeaders, AuthDocumentType, Gender, PlatformType, SessionType, UserSession } from '@kant2002-diia-inhouse/types'
 
 import { RandomData } from './randomData'
 

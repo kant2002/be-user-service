@@ -1,4 +1,4 @@
-import { DiiaOfficeProfileData, DocumentType, ProfileFeature } from '@diia-inhouse/types'
+import { DiiaOfficeProfileData, DocumentType, ProfileFeature } from '@kant2002-diia-inhouse/types'
 
 export interface DocumentTypeWithOrder {
     order: number

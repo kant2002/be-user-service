@@ -1,8 +1,8 @@
 import { randomUUID } from 'crypto'
 
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { EventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { EventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import PublicServicePenaltyCreatedEventListener from '@src/eventListeners/publicServicePenaltyCreated'
 

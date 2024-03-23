@@ -1,9 +1,9 @@
 /* eslint-disable no-await-in-loop */
 import { ObjectId } from 'bson'
 
-import { EventBus, InternalEvent, TaskListener } from '@diia-inhouse/diia-queue'
-import { Logger, PlatformType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBus, InternalEvent, TaskListener } from '@kant2002-diia-inhouse/diia-queue'
+import { Logger, PlatformType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import UserProfileService from '@services/userProfile'
 

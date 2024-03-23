@@ -1,6 +1,6 @@
 import { AnyBulkWriteOperation } from 'mongodb'
 
-import { DocStatus, DocumentType, OwnerType } from '@diia-inhouse/types'
+import { DocStatus, DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
 
 import { UserDocument } from '@interfaces/models/userDocument'
 

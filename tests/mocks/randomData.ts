@@ -1,6 +1,6 @@
 import { v4 as uuid } from 'uuid'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
 
 export class RandomData {
     constructor(private readonly identifier: IdentifierService) {}

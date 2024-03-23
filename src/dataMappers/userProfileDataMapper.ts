@@ -1,4 +1,4 @@
-import { UserTokenData } from '@diia-inhouse/types'
+import { UserTokenData } from '@kant2002-diia-inhouse/types'
 
 import { AuthProviderName } from '@interfaces/services/auth'
 

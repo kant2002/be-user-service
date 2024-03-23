@@ -1,8 +1,8 @@
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { I18nService } from '@diia-inhouse/i18n'
-import { ActionVersion, SessionType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { I18nService } from '@kant2002-diia-inhouse/i18n'
+import { ActionVersion, SessionType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import DiiaIdService from '@services/diiaId'
 

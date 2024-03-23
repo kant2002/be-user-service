@@ -2,10 +2,10 @@ import { randomUUID } from 'crypto'
 
 import { ObjectId } from 'bson'
 
-import Logger from '@diia-inhouse/diia-logger'
-import { EventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import { mockInstance } from '@diia-inhouse/test'
-import { PlatformType } from '@diia-inhouse/types'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { EventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import CreateNotificationsBatchesTask from '@src/tasks/createNotificationsBatches'
 

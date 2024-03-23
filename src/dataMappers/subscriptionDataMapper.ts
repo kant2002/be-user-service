@@ -1,6 +1,6 @@
 import { compare as compareVersions } from 'compare-versions'
 
-import { PlatformType, UserActionHeaders } from '@diia-inhouse/types'
+import { PlatformType, UserActionHeaders } from '@kant2002-diia-inhouse/types'
 
 import {
     PublicServiceCode,

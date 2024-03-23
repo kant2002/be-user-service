@@ -1,5 +1,5 @@
-import { I18nService } from '@diia-inhouse/i18n'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import { I18nService } from '@kant2002-diia-inhouse/i18n'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import GetDiiaIdSigningHistoryAction from '@actions/v2/diiaId/getSigningHistory'
 

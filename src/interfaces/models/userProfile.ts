@@ -1,6 +1,6 @@
 import { Document } from 'mongoose'
 
-import { Gender, ProfileFeature } from '@diia-inhouse/types'
+import { Gender, ProfileFeature } from '@kant2002-diia-inhouse/types'
 
 export enum CitizenshipSource {
     BankAccount = 'bankAccount',

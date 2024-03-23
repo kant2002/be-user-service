@@ -1,6 +1,6 @@
-import { ExternalCommunicator, ExternalEvent } from '@diia-inhouse/diia-queue'
-import { ServiceUnavailableError } from '@diia-inhouse/errors'
-import { HttpStatusCode, Logger } from '@diia-inhouse/types'
+import { ExternalCommunicator, ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { ServiceUnavailableError } from '@kant2002-diia-inhouse/errors'
+import { HttpStatusCode, Logger } from '@kant2002-diia-inhouse/types'
 
 import { AppConfig } from '@interfaces/config'
 import { CreditHistoryProvider } from '@interfaces/providers/creditHistory'

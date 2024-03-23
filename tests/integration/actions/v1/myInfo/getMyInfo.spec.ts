@@ -1,5 +1,5 @@
-import TestKit from '@diia-inhouse/test'
-import { Gender, Icon } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { Gender, Icon } from '@kant2002-diia-inhouse/types'
 
 import GetMyInfoAction from '@src/actions/v1/myInfo/getMyInfo'
 import { DefaultImage } from '@src/generated'

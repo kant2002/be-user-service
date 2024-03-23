@@ -1,6 +1,6 @@
-import { EventBusListener, InternalEvent } from '@diia-inhouse/diia-queue'
-import { DocumentType, PlatformType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBusListener, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { DocumentType, PlatformType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { userProfileDocumentValidationSchema } from '@src/validation'
 

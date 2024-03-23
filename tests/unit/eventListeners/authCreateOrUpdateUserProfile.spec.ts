@@ -2,8 +2,8 @@ const momentStub = jest.fn()
 
 jest.mock('moment', () => momentStub)
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import AuthCreateOrUpdateUserProfileEventListener from '@src/eventListeners/authCreateOrUpdateUserProfile'
 

@@ -20,9 +20,9 @@ jest.mock('@models/userSigningHistoryItem', () => ({
 
 import { ObjectId } from 'bson'
 
-import { DiiaIdServiceCode } from '@diia-inhouse/analytics'
-import { NotFoundError } from '@diia-inhouse/errors'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import { DiiaIdServiceCode } from '@kant2002-diia-inhouse/analytics'
+import { NotFoundError } from '@kant2002-diia-inhouse/errors'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 import {
     ButtonState,
     ChipStatusAtmType,
@@ -32,7 +32,7 @@ import {
     PlatformType,
     PublicServiceContextMenuType,
     StatusType,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import RatingSigningHistoryService from '@services/rating/signingHistory'
 import UserSigningHistoryService from '@services/userSigningHistory'

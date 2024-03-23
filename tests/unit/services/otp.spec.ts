@@ -2,9 +2,9 @@ import { ObjectId } from 'bson'
 import * as moment from 'moment'
 import { FilterQuery, UpdateQuery } from 'mongoose'
 
-import Logger from '@diia-inhouse/diia-logger'
-import { AccessDeniedError } from '@diia-inhouse/errors'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { AccessDeniedError } from '@kant2002-diia-inhouse/errors'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 const otpModelMock = {
     findOne: jest.fn(),

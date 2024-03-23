@@ -1,5 +1,5 @@
-import { StoreService } from '@diia-inhouse/redis'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import { StoreService } from '@kant2002-diia-inhouse/redis'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import UserActionAccessService from '@services/userActionAccess'
 import UserActionAccessSettingService from '@services/userActionAccessSetting'

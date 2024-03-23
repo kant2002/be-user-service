@@ -1,8 +1,8 @@
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { AnalyticsActionResult, GetRatingFormParams, GetRatingFormResponse, RateServiceEventPayload } from '@diia-inhouse/analytics'
-import { EventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import { ActionVersion, Logger, PlatformType } from '@diia-inhouse/types'
+import { AnalyticsActionResult, GetRatingFormParams, GetRatingFormResponse, RateServiceEventPayload } from '@kant2002-diia-inhouse/analytics'
+import { EventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { ActionVersion, Logger, PlatformType } from '@kant2002-diia-inhouse/types'
 
 import {
     AnalyticsActionType,

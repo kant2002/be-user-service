@@ -1,7 +1,7 @@
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { ActionVersion, AppUser } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { ActionVersion, AppUser } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import { DiiaIdAgreementGenerationData, EResidentDiiaIdAgreementGenerationData } from '@interfaces/services/diiaId'
 import { IdentityDocument } from '@interfaces/services/documents'

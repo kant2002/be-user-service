@@ -1,6 +1,6 @@
 import { Model, Schema, SchemaDefinition, model, models } from 'mongoose'
 
-import { DocumentType, OwnerType } from '@diia-inhouse/types'
+import { DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
 
 import { UserDocument, UserDocumentsNotifications } from '@interfaces/models/userDocument'
 import { ComparedTo, UserCompoundDocument } from '@interfaces/services/documents'

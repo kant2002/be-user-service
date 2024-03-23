@@ -2,9 +2,9 @@ import { randomUUID } from 'crypto'
 
 import { mongo } from 'mongoose'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { PlatformType } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import AcquirersSigningStatusEventListener from '@src/eventListeners/acquirersSigningStatus'
 

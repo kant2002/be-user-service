@@ -2,7 +2,7 @@ import { randomUUID } from 'crypto'
 
 import moment from 'moment'
 
-import TestKit from '@diia-inhouse/test'
+import TestKit from '@kant2002-diia-inhouse/test'
 
 import CheckIdentifierAvailabilityAction from '@actions/v2/diiaId/checkIdentifierAvailability'
 

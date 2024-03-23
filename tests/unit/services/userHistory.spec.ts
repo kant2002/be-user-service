@@ -1,8 +1,8 @@
 import { randomUUID } from 'crypto'
 
-import { SessionByIdResponse } from '@diia-inhouse/auth-service-client'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { ContentType, PublicServiceContextMenuType } from '@diia-inhouse/types'
+import { SessionByIdResponse } from '@kant2002-diia-inhouse/auth-service-client'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { ContentType, PublicServiceContextMenuType } from '@kant2002-diia-inhouse/types'
 
 import AuthService from '@services/auth'
 import UserHistoryService from '@services/userHistory'

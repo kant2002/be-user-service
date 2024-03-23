@@ -3,7 +3,7 @@ import 'module-alias/register'
 
 import { Db } from 'mongodb'
 
-import { PlatformType } from '@diia-inhouse/types'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import { Onboarding, OnboardingButtonAction, OnboardingData } from '@interfaces/models/onboarding'
 

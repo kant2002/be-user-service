@@ -1,7 +1,7 @@
 import { UpdateQuery } from 'mongoose'
 
-import { ServiceUnavailableError } from '@diia-inhouse/errors'
-import { Logger } from '@diia-inhouse/types'
+import { ServiceUnavailableError } from '@kant2002-diia-inhouse/errors'
+import { Logger } from '@kant2002-diia-inhouse/types'
 
 import {
     PublicServiceCode,

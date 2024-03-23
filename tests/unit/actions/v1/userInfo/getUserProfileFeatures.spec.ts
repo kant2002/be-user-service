@@ -1,5 +1,5 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { ProfileFeature } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { ProfileFeature } from '@kant2002-diia-inhouse/types'
 
 import GetUserProfileFeaturesAction from '@actions/v1/userInfo/getUserProfileFeatures'
 

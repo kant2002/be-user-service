@@ -1,8 +1,8 @@
 import { v4 as uuid } from 'uuid'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { EventBusListener, InternalEvent, QueueMessageMetaData } from '@diia-inhouse/diia-queue'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { EventBusListener, InternalEvent, QueueMessageMetaData } from '@kant2002-diia-inhouse/diia-queue'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import UserSigningHistoryService from '@services/userSigningHistory'
 

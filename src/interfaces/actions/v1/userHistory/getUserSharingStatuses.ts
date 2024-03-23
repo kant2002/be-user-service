@@ -1,4 +1,4 @@
-import { ServiceActionArguments } from '@diia-inhouse/types'
+import { ServiceActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { UserHistoryItemStatusRecord } from '@interfaces/services/userHistory'
 

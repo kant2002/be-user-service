@@ -2,7 +2,7 @@ import { randomUUID } from 'crypto'
 
 import { ObjectId } from 'bson'
 
-import TestKit from '@diia-inhouse/test'
+import TestKit from '@kant2002-diia-inhouse/test'
 
 import GetSessionHistoryScreenAction from '@src/actions/v1/userHistory/getSessionHistoryScreen'
 

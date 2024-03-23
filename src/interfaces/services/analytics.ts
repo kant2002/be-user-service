@@ -1,5 +1,5 @@
-import { AnalyticsActionResult, RatingCategory, RatingFormCode, RatingServiceCode, RatingType } from '@diia-inhouse/analytics'
-import { DocumentType, OwnerType, PlatformType } from '@diia-inhouse/types'
+import { AnalyticsActionResult, RatingCategory, RatingFormCode, RatingServiceCode, RatingType } from '@kant2002-diia-inhouse/analytics'
+import { DocumentType, OwnerType, PlatformType } from '@kant2002-diia-inhouse/types'
 
 import { SubscriptionType } from '@interfaces/models/subscription'
 

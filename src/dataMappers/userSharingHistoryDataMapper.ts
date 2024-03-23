@@ -1,7 +1,7 @@
 import moment from 'moment'
 
-import { ButtonState, CardMlc, DocumentType, TextLabelMlc } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { ButtonState, CardMlc, DocumentType, TextLabelMlc } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import UserHistoryDataMapper from '@dataMappers/userHistoryDataMapper'
 

@@ -1,4 +1,4 @@
-import { InternalServerError } from '@diia-inhouse/errors'
+import { InternalServerError } from '@kant2002-diia-inhouse/errors'
 
 import userUserActionAccessSettingModel from '@models/userActionAccessSetting'
 

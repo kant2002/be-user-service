@@ -1,5 +1,5 @@
-import { EventBusListener, ScheduledTaskEvent } from '@diia-inhouse/diia-queue'
-import { Logger } from '@diia-inhouse/types'
+import { EventBusListener, ScheduledTaskEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { Logger } from '@kant2002-diia-inhouse/types'
 
 import UserDocumentService from '@services/userDocument'
 

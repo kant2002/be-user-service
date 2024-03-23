@@ -1,11 +1,11 @@
 import { randomUUID } from 'crypto'
 
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { AnalyticsActionResult, GetRatingFormParams, RateServiceEventPayload } from '@diia-inhouse/analytics'
-import { EventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import TestKit from '@diia-inhouse/test'
-import { ActionVersion, Logger } from '@diia-inhouse/types'
+import { AnalyticsActionResult, GetRatingFormParams, RateServiceEventPayload } from '@kant2002-diia-inhouse/analytics'
+import { EventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { ActionVersion, Logger } from '@kant2002-diia-inhouse/types'
 
 import AnalyticsService from '@services/analytics'
 

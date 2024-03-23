@@ -1,4 +1,4 @@
-import { AppUserActionArguments } from '@diia-inhouse/types'
+import { AppUserActionArguments } from '@kant2002-diia-inhouse/types'
 
 import { SignAlgo } from '@interfaces/models/diiaId'
 import { ProcessCode } from '@interfaces/services'

@@ -1,8 +1,8 @@
 import { v4 as uuid } from 'uuid'
 
-import { ExternalCommunicator, ExternalEvent, ExternalEventBus } from '@diia-inhouse/diia-queue'
-import { ServiceUnavailableError } from '@diia-inhouse/errors'
-import { Logger } from '@diia-inhouse/types'
+import { ExternalCommunicator, ExternalEvent, ExternalEventBus } from '@kant2002-diia-inhouse/diia-queue'
+import { ServiceUnavailableError } from '@kant2002-diia-inhouse/errors'
+import { Logger } from '@kant2002-diia-inhouse/types'
 
 import { DiiaIdCertificateInfoResponse } from '@interfaces/externalEventListeners/diiaIdCertificateInfo'
 import { EResidentDiiaIdInfoRequest } from '@interfaces/services/eResidentDiiaIdConfirmation'

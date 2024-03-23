@@ -1,5 +1,5 @@
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocumentType, Gender } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentType, Gender } from '@kant2002-diia-inhouse/types'
 
 import GetUsersFilterCoveragesAction from '@actions/v1/userInfo/getUsersFilterCoverage'
 

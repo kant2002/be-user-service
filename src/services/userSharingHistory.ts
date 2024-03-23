@@ -1,6 +1,6 @@
 import { FilterQuery, UpdateQuery } from 'mongoose'
 
-import { NotFoundError } from '@diia-inhouse/errors'
+import { NotFoundError } from '@kant2002-diia-inhouse/errors'
 
 import userSharingHistoryItemModel from '@models/userSharingHistoryItem'
 

@@ -23,11 +23,11 @@ import { ObjectId } from 'bson'
 import moment from 'moment'
 import nock from 'nock'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import Logger from '@diia-inhouse/diia-logger'
-import { EventBus, ExternalEvent, ExternalEventBus, InternalEvent } from '@diia-inhouse/diia-queue'
-import { InternalServerError, ModelNotFoundError } from '@diia-inhouse/errors'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { EventBus, ExternalEvent, ExternalEventBus, InternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { InternalServerError, ModelNotFoundError } from '@kant2002-diia-inhouse/errors'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
 import {
     DocStatus,
     DocumentType,
@@ -37,7 +37,7 @@ import {
     PlatformType,
     ProfileFeature,
     UserTokenData,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import NotificationService from '@services/notification'
 import UnregisteredOfficeProfileService from '@services/unregisteredOfficeProfile'

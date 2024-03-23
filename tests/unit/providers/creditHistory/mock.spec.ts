@@ -2,8 +2,8 @@ const uuidV4Stub = jest.fn()
 
 jest.mock('uuid', () => ({ v4: uuidV4Stub }))
 
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { mockInstance } from '@diia-inhouse/test'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
 
 import MockProvider from '@providers/creditHistory/mock'
 

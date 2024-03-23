@@ -1,7 +1,7 @@
 import { ObjectId } from 'bson'
 import { v4 as uuid } from 'uuid'
 
-import { AppUserActionHeaders, UserSession } from '@diia-inhouse/types'
+import { AppUserActionHeaders, UserSession } from '@kant2002-diia-inhouse/types'
 
 import AcquirersSigningStatusEventListener from '@src/eventListeners/acquirersSigningStatus'
 

@@ -1,18 +1,18 @@
-import { BalancingStrategy, MetricsConfig, TransporterConfig } from '@diia-inhouse/diia-app'
+import { BalancingStrategy, MetricsConfig, TransporterConfig } from '@kant2002-diia-inhouse/diia-app'
 
-import { AuthConfig, IdentifierConfig } from '@diia-inhouse/crypto'
-import { AppDbConfig, ReplicaSetNodeConfig } from '@diia-inhouse/db'
+import { AuthConfig, IdentifierConfig } from '@kant2002-diia-inhouse/crypto'
+import { AppDbConfig, ReplicaSetNodeConfig } from '@kant2002-diia-inhouse/db'
 import {
     InternalQueueName,
     ListenerOptions,
     QueueConnectionConfig,
     QueueConnectionType,
     ScheduledTaskQueueName,
-} from '@diia-inhouse/diia-queue'
-import { EnvService } from '@diia-inhouse/env'
-import { HealthCheckConfig } from '@diia-inhouse/healthcheck'
-import { RedisConfig } from '@diia-inhouse/redis'
-import { GenericObject } from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/diia-queue'
+import { EnvService } from '@kant2002-diia-inhouse/env'
+import { HealthCheckConfig } from '@kant2002-diia-inhouse/healthcheck'
+import { RedisConfig } from '@kant2002-diia-inhouse/redis'
+import { GenericObject } from '@kant2002-diia-inhouse/types'
 
 import { ServiceTask } from '@interfaces/tasks'
 

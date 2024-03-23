@@ -1,9 +1,9 @@
 import { compare as compareSemver } from 'compare-versions'
 
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { ActionVersion, PlatformType, SessionType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { ActionVersion, PlatformType, SessionType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import UserHistoryService from '@services/userHistory'
 

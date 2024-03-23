@@ -1,7 +1,7 @@
 import { DateTime } from 'luxon'
 
-import { DiiaIdServiceCode, RateServiceEventPayload, RatingCategory, RatingForm, RatingService } from '@diia-inhouse/analytics'
-import { MessageActionSubtype, MessageActionType, PlatformType, TemplateStub } from '@diia-inhouse/types'
+import { DiiaIdServiceCode, RateServiceEventPayload, RatingCategory, RatingForm, RatingService } from '@kant2002-diia-inhouse/analytics'
+import { MessageActionSubtype, MessageActionType, PlatformType, TemplateStub } from '@kant2002-diia-inhouse/types'
 
 import AnalyticsService from '@services/analytics'
 

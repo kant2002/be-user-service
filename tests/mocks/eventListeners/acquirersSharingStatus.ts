@@ -1,7 +1,7 @@
 import { ObjectId } from 'mongodb'
 import { v4 as uuid } from 'uuid'
 
-import { AppUserActionHeaders, UserSession } from '@diia-inhouse/types'
+import { AppUserActionHeaders, UserSession } from '@kant2002-diia-inhouse/types'
 
 import AcquirersSharingStatusEventListener from '@src/eventListeners/acquirersSharingStatus'
 

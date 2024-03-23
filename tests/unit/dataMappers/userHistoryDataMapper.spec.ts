@@ -6,7 +6,7 @@ import {
     PlatformType,
     PublicServiceContextMenuType,
     StatusType,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import userSharingHistoryItemModel from '@models/userSharingHistoryItem'
 import userSigningHistoryItemModel from '@models/userSigningHistoryItem'

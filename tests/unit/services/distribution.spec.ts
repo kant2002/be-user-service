@@ -7,7 +7,7 @@ jest.mock('@models/distribution', () => distributionModelMock)
 
 import { ObjectId } from 'mongodb'
 
-import { PlatformType } from '@diia-inhouse/types'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import DistributionService from '@services/distribution'
 

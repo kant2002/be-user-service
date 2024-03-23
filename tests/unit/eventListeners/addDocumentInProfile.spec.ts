@@ -1,7 +1,7 @@
 import { randomUUID } from 'crypto'
 
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocStatus, DocumentType, OwnerType } from '@diia-inhouse/types'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocStatus, DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
 
 import AddDocumentInProfileEventListener from '@src/eventListeners/addDocumentInProfile'
 

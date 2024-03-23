@@ -1,7 +1,7 @@
 import { compare as compareSemver } from 'compare-versions'
 import { FilterQuery } from 'mongoose'
 
-import { PlatformType, SessionType } from '@diia-inhouse/types'
+import { PlatformType, SessionType } from '@kant2002-diia-inhouse/types'
 
 import newFeaturesModel from '@models/newFeatures'
 import onboardingModel from '@models/onboarding'

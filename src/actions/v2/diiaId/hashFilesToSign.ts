@@ -1,11 +1,11 @@
 import { v4 as uuid } from 'uuid'
 
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { ActionVersion, SessionType } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { ActionVersion, SessionType } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import DiiaIdService from '@services/diiaId'
 import UserSigningHistoryService from '@services/userSigningHistory'

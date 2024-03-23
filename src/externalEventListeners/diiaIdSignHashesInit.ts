@@ -1,6 +1,6 @@
-import { EventBusListener, ExternalEvent } from '@diia-inhouse/diia-queue'
-import { Logger } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBusListener, ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { Logger } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { EventPayload } from '@interfaces/externalEventListeners/diiaIdSignHashesInit'
 

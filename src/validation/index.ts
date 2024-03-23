@@ -1,5 +1,5 @@
-import { DocumentType, OwnerType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { DocumentType, OwnerType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { UserProfileDocument } from '@interfaces/services/documents'
 

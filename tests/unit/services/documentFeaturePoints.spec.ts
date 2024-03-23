@@ -6,11 +6,11 @@ const uuidV4Stub = jest.fn()
 
 jest.mock('uuid', () => ({ v4: uuidV4Stub }))
 
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { ExternalCommunicator, ExternalEvent } from '@diia-inhouse/diia-queue'
-import { ModelNotFoundError } from '@diia-inhouse/errors'
-import { mockInstance } from '@diia-inhouse/test'
-import { DocumentType } from '@diia-inhouse/types'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { ExternalCommunicator, ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import { ModelNotFoundError } from '@kant2002-diia-inhouse/errors'
+import { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 const documentFeaturePointsModel = {
     find: jest.fn(),

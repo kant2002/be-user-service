@@ -1,4 +1,4 @@
-import { StoreService } from '@diia-inhouse/redis'
+import { StoreService } from '@kant2002-diia-inhouse/redis'
 
 import UserActionAccessSettingService from '@services/userActionAccessSetting'
 

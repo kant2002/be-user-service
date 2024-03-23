@@ -1,7 +1,7 @@
-import { MoleculerService } from '@diia-inhouse/diia-app'
+import { MoleculerService } from '@kant2002-diia-inhouse/diia-app'
 
-import { ActionVersion, AppUser, DocumentType, SessionType, UserTokenData } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
+import { ActionVersion, AppUser, DocumentType, SessionType, UserTokenData } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
 
 import { DocumentsResponse, GetDocumentsRequest, IdentityDocument, Passport } from '@interfaces/services/documents'
 

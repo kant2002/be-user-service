@@ -1,6 +1,6 @@
 import { UpdateQuery } from 'mongoose'
 
-import { DocumentType } from '@diia-inhouse/types'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 import { PublicServiceCode, SubscriptionModel, SubscriptionType } from '@interfaces/models/subscription'
 import { AnalyticsHeaders } from '@interfaces/services/analytics'

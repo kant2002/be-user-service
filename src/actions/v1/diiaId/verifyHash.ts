@@ -1,13 +1,13 @@
 import { v4 as uuid } from 'uuid'
 
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import { CryptoDocServiceClient } from '@diia-inhouse/diia-crypto-client'
-import { AccessDeniedError } from '@diia-inhouse/errors'
-import { ActionVersion, Logger, SessionType } from '@diia-inhouse/types'
-import { utils } from '@diia-inhouse/utils'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import { CryptoDocServiceClient } from '@kant2002-diia-inhouse/diia-crypto-client'
+import { AccessDeniedError } from '@kant2002-diia-inhouse/errors'
+import { ActionVersion, Logger, SessionType } from '@kant2002-diia-inhouse/types'
+import { utils } from '@kant2002-diia-inhouse/utils'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import UserSigningHistoryService from '@services/userSigningHistory'
 

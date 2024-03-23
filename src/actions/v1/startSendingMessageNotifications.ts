@@ -1,11 +1,11 @@
 import { ObjectId } from 'bson'
 
-import { AppAction } from '@diia-inhouse/diia-app'
+import { AppAction } from '@kant2002-diia-inhouse/diia-app'
 
-import { EventBus, InternalEvent, Task } from '@diia-inhouse/diia-queue'
-import { BadRequestError, ModelNotFoundError } from '@diia-inhouse/errors'
-import { ActionVersion, Logger, PlatformType, SessionType } from '@diia-inhouse/types'
-import { ValidationSchema } from '@diia-inhouse/validators'
+import { EventBus, InternalEvent, Task } from '@kant2002-diia-inhouse/diia-queue'
+import { BadRequestError, ModelNotFoundError } from '@kant2002-diia-inhouse/errors'
+import { ActionVersion, Logger, PlatformType, SessionType } from '@kant2002-diia-inhouse/types'
+import { ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import DistributionService from '@services/distribution'
 import NotificationService from '@services/notification'

@@ -1,10 +1,10 @@
 import { randomUUID } from 'crypto'
 
-import { IdentifierService } from '@diia-inhouse/crypto'
-import DiiaLogger from '@diia-inhouse/diia-logger'
-import { ExternalEvent } from '@diia-inhouse/diia-queue'
-import TestKit, { mockInstance } from '@diia-inhouse/test'
-import { DocumentType, HttpStatusCode, ProfileFeature } from '@diia-inhouse/types'
+import { IdentifierService } from '@kant2002-diia-inhouse/crypto'
+import DiiaLogger from '@kant2002-diia-inhouse/diia-logger'
+import { ExternalEvent } from '@kant2002-diia-inhouse/diia-queue'
+import TestKit, { mockInstance } from '@kant2002-diia-inhouse/test'
+import { DocumentType, HttpStatusCode, ProfileFeature } from '@kant2002-diia-inhouse/types'
 
 import OfficeIdentifierEventListener from '@src/externalEventListeners/officeIdentifier'
 

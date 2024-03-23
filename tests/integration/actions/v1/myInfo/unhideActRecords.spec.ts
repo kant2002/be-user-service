@@ -1,5 +1,5 @@
-import TestKit from '@diia-inhouse/test'
-import { DocumentType } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { DocumentType } from '@kant2002-diia-inhouse/types'
 
 import UnhideActRecordsAction from '@src/actions/v1/myInfo/unhideActRecords'
 import { ActRecordRequestType } from '@src/generated'

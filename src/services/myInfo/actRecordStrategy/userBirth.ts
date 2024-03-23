@@ -1,4 +1,4 @@
-import { DocumentTypeCamelCase, ListItemMlc, UserTokenData } from '@diia-inhouse/types'
+import { DocumentTypeCamelCase, ListItemMlc, UserTokenData } from '@kant2002-diia-inhouse/types'
 
 import { ActRecordsData, DocumentItem } from '@src/generated'
 

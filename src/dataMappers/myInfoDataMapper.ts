@@ -1,6 +1,6 @@
 import moment from 'moment'
 
-import { I18nService } from '@diia-inhouse/i18n'
+import { I18nService } from '@kant2002-diia-inhouse/i18n'
 import {
     DSBottomGroupItem,
     DSTopGroupItem,
@@ -11,7 +11,7 @@ import {
     PublicServiceContextMenuType,
     RelationshipActRecordSubtype,
     UserTokenData,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import { ActRecordRequestType, DefaultImage, GetActRecordsRes, GetFamilyRes, GetMyInfoRes } from '@src/generated'
 

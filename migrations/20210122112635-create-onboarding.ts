@@ -3,8 +3,8 @@ import 'module-alias/register'
 
 import { Db } from 'mongodb'
 
-import { Env } from '@diia-inhouse/env'
-import { PlatformType } from '@diia-inhouse/types'
+import { Env } from '@kant2002-diia-inhouse/env'
+import { PlatformType } from '@kant2002-diia-inhouse/types'
 
 import { Onboarding, OnboardingBoard, OnboardingButtonAction, OnboardingData } from '@interfaces/models/onboarding'
 

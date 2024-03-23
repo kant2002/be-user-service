@@ -1,7 +1,7 @@
 {
-    "extends": "@diia-inhouse/configs/tsconfig",
+    "extends": "@kant2002-diia-inhouse/configs/tsconfig",
     "compilerOptions": {
-        "plugins": [{ "transform": "@diia-inhouse/diia-app/dist/plugins/openapi" }],
+        "plugins": [{ "transform": "@kant2002-diia-inhouse/diia-app/dist/plugins/openapi" }],
         "outDir": "dist",
         "declarationDir": "dist/types",
         "baseUrl": "./",

@@ -1,6 +1,6 @@
 import { ObjectId } from 'bson'
 
-import { DocumentType, Gender } from '@diia-inhouse/types'
+import { DocumentType, Gender } from '@kant2002-diia-inhouse/types'
 
 import { AttentionMessage } from '@interfaces/services/index'
 import { UserDocumentTypesCounts } from '@interfaces/services/userDocument'
