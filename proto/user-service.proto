@@ -79,15 +79,15 @@ message GetInfoForFiltersRequest { string userIdentifier = 1; }
 
 message GetInfoForFiltersReply {
   int32 age = 1;
-  Gender gender = 2;
+  ua.gov.diia.types.token.Gender gender = 2;
   map<string, int32> documents = 3;
   optional string organizationId = 4;
 }
 
-enum Gender {
-  male = 0;
-  female = 1;
-}
+// enum Gender {
+//   male = 0;
+//   female = 1;
+// }
 
 message GetUserProfileFeaturesRequest {
   string userIdentifier = 1;
